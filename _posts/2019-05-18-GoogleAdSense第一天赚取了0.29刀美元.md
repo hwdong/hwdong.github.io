@@ -11,4 +11,4 @@ tags:
 
 请看我博客的网友务必点击广告，谢谢！
 
-![](http://blog.hwdong.com/images/other_imgs/0.29.jpg)
+![](http://blog.hwdong.com/images/other_imgs/0.29.png)
